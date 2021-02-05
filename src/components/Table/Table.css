@@ -1,0 +1,36 @@
+.box:hover {
+  cursor: pointer;
+}
+
+.box {
+  width: 2em;
+  height: 2em;
+  border: 1px solid black;
+  text-align: center;
+  font-size: medium;
+}
+
+.shade {
+  background-color: #bababa;
+}
+
+.container {
+  display: grid;
+  justify-content: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.box::placeholder {
+  color: red;
+  opacity: 1;
+}
+
+.isGreen[type=text] {
+  color: #098700;
+  font-weight: 700;
+}
+
+.isBlue[type=text] {
+  color: blue;
+}

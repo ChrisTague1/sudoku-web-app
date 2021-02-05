@@ -1,0 +1,13 @@
+.small {
+  width: 2rem;
+  height: 2rem;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.selector {
+  height: 1.5rem;
+  width: 3rem;
+}
