@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sudoku-web-app/static/css/main.55f6a636.chunk.css",
+    "main.js": "/sudoku-web-app/static/js/main.6e70a111.chunk.js",
+    "main.js.map": "/sudoku-web-app/static/js/main.6e70a111.chunk.js.map",
+    "runtime-main.js": "/sudoku-web-app/static/js/runtime-main.f13920ec.js",
+    "runtime-main.js.map": "/sudoku-web-app/static/js/runtime-main.f13920ec.js.map",
+    "static/js/2.233b77f8.chunk.js": "/sudoku-web-app/static/js/2.233b77f8.chunk.js",
+    "static/js/2.233b77f8.chunk.js.map": "/sudoku-web-app/static/js/2.233b77f8.chunk.js.map",
+    "static/js/3.13987deb.chunk.js": "/sudoku-web-app/static/js/3.13987deb.chunk.js",
+    "static/js/3.13987deb.chunk.js.map": "/sudoku-web-app/static/js/3.13987deb.chunk.js.map",
+    "index.html": "/sudoku-web-app/index.html",
+    "static/css/main.55f6a636.chunk.css.map": "/sudoku-web-app/static/css/main.55f6a636.chunk.css.map",
+    "static/js/2.233b77f8.chunk.js.LICENSE.txt": "/sudoku-web-app/static/js/2.233b77f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f13920ec.js",
+    "static/js/2.233b77f8.chunk.js",
+    "static/css/main.55f6a636.chunk.css",
+    "static/js/main.6e70a111.chunk.js"
+  ]
+}
